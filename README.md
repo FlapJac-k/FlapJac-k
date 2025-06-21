@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👨‍💻 Eslam Mohamed
 
-<!--
-**FlapJac-k/FlapJac-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Eslam Mohamed**, a passionate **Software Engineer** from **Alexandria, Egypt** 🇪🇬 with 4+ years of experience in **web development**, particularly in **ERP** and **healthcare systems**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack & Skills
+
+- 💻 **Languages**: C# (ASP.NET), PHP (Laravel), JavaScript, TypeScript
+- 🛠️ **Frameworks**: ASP.NET Core, Laravel, Vue.js, NestJS
+- 🗄️ **Databases**: SQL Server, MySQL, PostgreSQL
+- ⚙️ **Tools & Others**: Docker, REST APIs, GraphQL, Mirth Connect, Git
+
+---
+
+## 🚀 What I Do
+
+- Backend development with a focus on performance and security  
+- Integrate third-party APIs and services (Stripe, PayPal, Mailgun, etc.)  
+- Refactor and optimize systems using clean code and design patterns  
+- Solve real-world business problems through scalable and maintainable code  
+
+---
+
+## 🧠 Currently Working On
+
+- Healthcare backend systems with ASP.NET and SQL Server  
+- Data integration projects with Mirth Connect  
+- Improving system stability through version upgrades and bug fixes
+
+---
+
+## 📬 Let's Connect
+
+- 📧 Email: [eslam.mohamed.ce@gmail.com](mailto:eslam.mohamed.ce@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/eslam-mohamed-43823a199)  
+- 🌍 Location: Alexandria, Egypt  
+
+---
+
+Thanks for visiting my profile! Feel free to check out my repos or reach out 😊
